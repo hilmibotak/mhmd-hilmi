@@ -1,3 +1,3 @@
 function mobil() {
-    document.getElementById("RentalMobil").src='gambar/mobil2.png'
+    document.getElementById("RentalMobil").src='gambar/mbl.jpeg'
   }
