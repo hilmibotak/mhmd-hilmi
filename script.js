@@ -3,5 +3,5 @@ function mobil() {
   }
  
   function newTab(){
-    open.window('https://tailwindcss.com/')
+    window.open('https://tailwindcss.com/')
   }
